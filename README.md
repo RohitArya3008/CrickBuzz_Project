@@ -1,2 +1,2 @@
-# DataScienceProjects_Repo
-Contains all the projects on which I worked on during my summer internship.
+# CrickBuzz_project
+End-to-end analytics application built using Streamlit for the front-end interface, REST APIs for data retrieval, and SQL database querying.
